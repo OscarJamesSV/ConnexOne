@@ -29,6 +29,7 @@ To run this application, you need to have the following software installed:
    ```bash
    cd connex-one-api
    npm install
+   npm run build
    cd ..
    cd connex-one-frontend
    npm install
